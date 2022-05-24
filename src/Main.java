@@ -11,7 +11,7 @@ public class Main {
         }
 
 
-        System.out.println("Бонус равен : " +  bonusRubles + " руб.");
+        System.out.println("Бонус равен : " + bonusRubles + " руб.");
         System.out.println("Итоговый счет равен : " + sum + " руб.");
 
 
